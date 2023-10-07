@@ -43,7 +43,6 @@ function positiveOrNegative() {
     updateDisplay();
 }
 
-
 function setOperation(operator) {
     if (currentInput === "") return;
 
